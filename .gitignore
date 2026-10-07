@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+venv/
+*.pyc
+echo feature_engineered_data.csv >> .gitignore
